@@ -1,0 +1,338 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+height:1200px;
+width:1920px;
+
+}
+p
+{
+	color:#000;
+	margin-left:100px;
+	font-size:24px;
+}
+
+/*FactOne*/
+#Factone
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+background-color:#FFF;
+
+
+}
+#Sun{
+height:100px;
+witdh:100px;	
+}
+
+#Roate {
+height:50px;
+width:50px;
+
+}
+#Roate1 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+
+/*Facttwo*/
+#Facttwo
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+margin-top:400px;
+background-color:#FFF;
+
+
+}
+#direction{
+height:90px;
+witdh:90px;	
+}
+
+#Roate2 {
+height:50px;
+width:50px;
+
+}
+#Roate3 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+/*Factthree*/
+#Factthree
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+margin-left:1300px;
+background-color:#FFF;
+
+
+}
+#Roate4 {
+height:50px;
+width:50px;
+
+}
+#Roate5 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#tree
+{
+height:90px;
+witdh:90px;	
+
+}
+/*Factfour*/
+#Factfour
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+background-color:#FFF;
+
+}
+#Roate6 {
+height:50px;
+width:50px;
+
+}
+#Roate7 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#ninja
+{
+height:90px;
+witdh:90px;	
+
+}
+
+/*Factfive*/
+#Factfive
+{
+height:250px;
+width:600px;
+position:relative;
+float:right;
+background-color:#FFF;
+
+
+}
+#Roate8 {
+height:50px;
+width:50px;
+
+}
+#Roate9 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#boot
+{
+height:90px;
+witdh:90px;	
+
+}
+/*Factsix*/
+#Factsix
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+background-color:#FFF;
+margin-top:700px;
+margin-left:1300px;
+
+}
+#Roate10 {
+height:50px;
+width:50px;
+
+}
+#Roate11 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#house
+{
+height:90px;
+witdh:90px;	
+
+}
+/*Factseven*/
+#Factseven
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+background-color:#FFF;
+
+
+}
+#Roate12 {
+height:50px;
+width:50px;
+
+}
+#Roate13 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#ninja2
+{
+	height:90px;
+	width:90px;
+}
+/*Facteight*/
+#Facteight
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+background-color:#FFF;
+margin-top:400px;
+
+}
+#Roate14 {
+height:50px;
+width:50px;
+
+}
+#Roate15 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#pio
+{
+height:90px;
+width:90px;	
+}
+/*Factnine*/
+#Factnine
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+margin-left:1300px;
+background-color:#FFF;
+
+}
+#Roate16 {
+height:50px;
+width:50px;
+
+}
+#Roate17 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+
+#hands
+{
+height:100px;
+width:100px;	
+	
+}
+/*Factten*/
+#Factten
+{
+height:250px;
+width:600px;
+position:relative;
+float:left;
+margin-left:1300px;
+background-color:#FFF;
+
+
+}
+#Roate18 {
+height:50px;
+width:50px;
+
+}
+#Roate19 {
+height:50px;
+width:50px;
+margin-left:500px;
+
+}
+#foot
+{
+height:90px;
+width:90px;	
+}
+/*parrallax*/
+		  * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            .content {
+                height: 2000px;
+				witdth:1920px;
+                background-color:#000;
+            }
+            
+            .parallax-bg {
+				height:1000px;
+                padding: 300px 0;
+                background-image:url(image.jpg);
+                background-size: cover;
+                background-attachment: fixed;
+                -webkit-transition: all 0.2s ease;
+                -moz-transition: all 0.2s ease;
+                transition: all 0.2s ease;
+            }
+            
+            .parallax-bg h1 {
+                text-align: center;
+                text-transform: uppercase;
+                color: #fff;
+                font-size: 70px;
+                font-family: Arial;
+            }
+            
+            
+     .parallax-bg2 {
+		 height:1000px;
+                padding: 300px 0;
+                background-image: url(image.JPG);
+                background-size: cover;
+                background-attachment: fixed;
+                -webkit-transition: all 0.2s ease;
+                -moz-transition: all 0.2s ease;
+                transition: all 0.2s ease;
+            }       
