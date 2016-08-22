@@ -301,7 +301,7 @@ width:90px;
             }
             
             .content {
-                height: 2000px;
+                height: 3500px;
 				witdth:1920px;
                 background-color:#000;
             }
@@ -327,7 +327,7 @@ width:90px;
             
             
      .parallax-bg2 {
-		 height:1000px;
+		         height:1000px;
                 padding: 300px 0;
                 background-image: url(image.JPG);
                 background-size: cover;
